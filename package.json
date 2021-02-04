@@ -1,0 +1,20 @@
+{
+  "name": "react-typescript-reddit",
+  "version": "1.0.0",
+  "description": "In this repository a reddit clone using React Typscript &amp; GraphQL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jurgen1c/react-typescript-reddit.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jurgen1c/react-typescript-reddit/issues"
+  },
+  "homepage": "https://github.com/jurgen1c/react-typescript-reddit#readme"
+}
